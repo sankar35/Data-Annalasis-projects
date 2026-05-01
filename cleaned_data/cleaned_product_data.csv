@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,Stock,Supplier
+P001,Widget A,Electronics,29.99,100,Supplier1
+P002,Widget B,Electronics,39.99,150,Supplier2
+P003,Widget C,Home & Garden,19.99,125,Supplier3
+P004,Widget D,Electronics,49.99,200,Supplier1
+P005,Widget E,Home & Garden,24.99,80,Supplier4
+P006,Widget F,Electronics,34.99,120,Supplier2
+P007,Widget G,Books,14.99,300,Supplier5
+P008,Widget H,Electronics,59.99,90,Supplier1
+P009,Widget I,Home & Garden,22.99,110,Supplier3
+P010,Widget J,Books,16.99,250,Supplier5
+P011,Widget K,Electronics,44.99,130,Supplier2
+P012,Widget L,Home & Garden,27.99,95,Supplier4
+P013,Widget M,Books,12.99,180,Supplier6
+P014,Widget N,Electronics,52.99,85,Supplier1
+P015,Widget O,Home & Garden,31.99,140,Supplier3
+P016,Widget P,Books,18.99,220,Supplier5
+P017,Widget Q,Electronics,37.99,115,Supplier2
+P018,Widget R,Home & Garden,25.99,105,Supplier4
+P019,Widget S,Books,15.99,190,Supplier6
+P020,Widget T,Electronics,47.99,125,Supplier1

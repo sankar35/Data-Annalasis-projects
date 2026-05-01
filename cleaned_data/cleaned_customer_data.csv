@@ -1,0 +1,31 @@
+CustomerID,Name,Email,Phone,Age,City,RegistrationDate
+C001,John Doe,john@example.com,(123) 456-7890,25,New York,2025-01-01
+C002,Jane Smith,jane@example.com,Not Provided,30,Los Angeles,2025-01-02
+C003,Bob Johnson,bob@example.com,(987) 654-3210,35,Chicago,2025-01-03
+C004,Alice Brown,alice@example.com,(555) 123-4567,28,Boston,2025-01-04
+C005,Charlie Wilson,charlie@example.com,(111) 222-3333,42,Seattle,2025-01-05
+C006,Diana Davis,diana@example.com,(444) 555-6666,31,Miami,2025-01-06
+C007,Evan Evans,evan@example.com,(777) 888-9999,29,Denver,2025-01-07
+C008,Fiona Foster,fiona@example.com,(000) 111-2222,38,Atlanta,2025-01-08
+C009,George Green,george@example.com,(333) 444-5555,26,Phoenix,2025-01-09
+C010,Helen Harris,helen@example.com,(666) 777-8888,33,Portland,2025-01-10
+C011,Ivan Ivanov,ivan@example.com,(999) 000-1111,27,Austin,2025-01-11
+C012,Jasmine Jones,jasmine@example.com,(222) 333-4444,36,Nashville,2025-01-12
+C013,Kevin Kelly,kevin@example.com,(555) 666-7777,24,San Francisco,2025-01-13
+C014,Lily Lee,lily@example.com,(888) 999-0000,41,Salt Lake City,2025-01-14
+C015,Mike Miller,mike@example.com,(111) 222-3333,32,Las Vegas,2025-01-15
+C016,Nancy Nelson,nancy@example.com,(444) 555-6666,29,Orlando,2025-01-16
+C017,Oscar Olson,oscar@example.com,(777) 888-9999,37,Minneapolis,2025-01-17
+C018,Paula Parker,paula@example.com,(000) 111-2222,28,Kansas City,2025-01-18
+C019,Quincy Quinn,quincy@example.com,(333) 444-5555,45,Omaha,2025-01-19
+C020,Rachel Reed,rachel@example.com,(666) 777-8888,31,Raleigh,2025-01-20
+C021,Steve Smith,steve@example.com,(999) 000-1111,26,Tucson,2025-01-21
+C022,Tina Taylor,tina@example.com,(222) 333-4444,39,Albuquerque,2025-01-22
+C023,Ulysses Underwood,ulysses@example.com,(555) 666-7777,30,Fresno,2025-01-23
+C024,Victoria Vaughn,victoria@example.com,(888) 999-0000,34,Sacramento,2025-01-24
+C025,William Wallace,william@example.com,(111) 222-3333,27,Long Beach,2025-01-25
+C026,Xena Xavier,xena@example.com,(444) 555-6666,38,Bakersfield,2025-01-26
+C027,Yuri Yakov,yuri@example.com,(777) 888-9999,25,Anaheim,2025-01-27
+C028,Zoe Zimmerman,zoe@example.com,(000) 111-2222,42,Santa Ana,2025-01-28
+C029,Adam Anderson,adam@example.com,(333) 444-5555,29,Corpus Christi,2025-01-29
+C030,Betty Bennett,betty@example.com,(666) 777-8888,35,Riverside,2025-01-30
